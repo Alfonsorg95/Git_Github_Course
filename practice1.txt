@@ -1,5 +1,6 @@
 This is a text document.
 
 I made this for practice.
+This line is for a second commit.
 
 Git and GitHub course by Freddy Vega.
