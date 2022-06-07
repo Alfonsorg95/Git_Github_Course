@@ -9,3 +9,6 @@ If i don't write a message git will open a vim editor.
 I must write a message and press Ctrl + Shift + zz to exit vim and make the commit.
 
 Diff will show the difference between two versions of any file.
+
+Reset restores a file to a previous version. It can be a hard reset (resets all changes and deletes log)
+or a soft reset (changes in staging remain).
