@@ -4,3 +4,8 @@ I made this for practice.
 This line is for a second commit.
 
 Git and GitHub course by Freddy Vega.
+
+If i don't write a message git will open a vim editor.
+I must write a message and press Ctrl + Shift + zz to exit vim and make the commit.
+
+Diff will show the difference between two versions of any file.
